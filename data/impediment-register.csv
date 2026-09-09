@@ -1,0 +1,5 @@
+id,sprint,raised_day,severity,impediment,impact,owner,next_action,escalation,status,closed_day,learning
+IMP-004,Sprint 02,4,High,Article-taxonomy service unavailable,US-005 integration blocked,Upstream Service Owner,Restore test endpoint and confirm ETA,Engineering Lead,Resolved,6,Validate critical dependencies before Sprint Planning
+IMP-005,Sprint 02,3,Medium,Analytics event definition unclear,US-009 cannot be safely completed,Product Owner,Define event names and acceptance criteria,None,Open,,Strengthen analytics refinement checklist
+IMP-006,Sprint 02,8,Medium,Limited shared QA availability,Regression window compressed,QA Lead,Pair QA earlier with Developers,Delivery Lead,Monitoring,,Review shared capacity during planning
+IMP-007,Sprint 01,5,Medium,UX copy approval delayed,US-003 acceptance delayed,Product Owner,Confirm approval during refinement,None,Resolved,6,Identify decision owners earlier

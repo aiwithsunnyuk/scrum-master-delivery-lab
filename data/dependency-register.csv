@@ -1,0 +1,5 @@
+id,sprint,dependency,dependent_item,owner,criticality,status,verification
+DEP-001,Sprint 02,Article taxonomy API,US-005,Upstream Service Owner,High,Resolved,Integration test passed
+DEP-002,Sprint 02,Analytics event definitions,US-009,Product Owner,Medium,Open,Acceptance criteria pending
+DEP-003,Sprint 02,UX copy approval,US-012,Product Owner,Low,Resolved,PO confirmation recorded
+DEP-004,Sprint 02,QA shared capacity,US-005/US-008/US-012,QA Lead,Medium,Monitoring,Capacity reviewed
