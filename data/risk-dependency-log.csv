@@ -1,0 +1,5 @@
+id,type,description,impact,probability,owner,response,status
+RD-001,Dependency,Search API access,High,Medium,Engineering Lead,Confirm access before Sprint Planning,Closed
+RD-002,Risk,Analytics acceptance criteria unclear,Medium,Medium,Product Owner,Refine event definitions before commitment,Open
+RD-003,Dependency,UX copy approval,Low,Medium,Product Owner,Review during refinement,Closed
+RD-004,Risk,QA availability across multiple teams,Medium,Medium,Delivery Lead,Reserve capacity and pair early,Monitoring

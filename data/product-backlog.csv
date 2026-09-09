@@ -1,0 +1,8 @@
+id,title,type,priority,story_points,status
+US-001,Search knowledge articles,User Story,1,5,Done
+US-002,View article results,User Story,2,3,Done
+US-003,Open article details,User Story,3,3,Done
+US-004,Track search analytics,User Story,4,2,Not Done
+US-005,Filter results by category,User Story,5,5,Ready
+US-006,Create service request,User Story,6,8,Refinement
+US-007,Track request status,User Story,7,5,Refinement

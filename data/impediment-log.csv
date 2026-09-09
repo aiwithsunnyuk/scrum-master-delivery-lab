@@ -1,0 +1,4 @@
+id,sprint,impediment,impact,owner,status,resolution
+IMP-001,Sprint 01,Search API credentials delayed integration,Medium,Engineering Lead,Resolved,Access granted and dependency documented
+IMP-002,Sprint 01,Analytics event naming unclear,Medium,Product Owner,Open,Acceptance criteria to be clarified in refinement
+IMP-003,Sprint 01,UX copy approval delayed,Low,Product Owner,Resolved,PO approved revised copy during refinement
