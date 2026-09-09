@@ -106,3 +106,25 @@ scrum-master-delivery-lab/
 ## Disclaimer
 
 This is a **portfolio simulation**, not a representation of confidential Wipro or client data. The scenario, metrics and artifacts are intentionally synthetic.
+
+## Portfolio Navigation
+
+### Start here
+- [Recruiter Guide](docs/recruiter-guide.md)
+- [Capability Matrix](docs/capability-matrix.md)
+- [End-to-End Delivery Story](docs/end-to-end-story.md)
+- [Interview Demo](docs/interview-demo.md)
+- [Portfolio Scorecard](docs/portfolio-scorecard.md)
+
+### Milestones
+- Milestone 1 — Product Goal & Backlog
+- Milestone 2 — Sprint Execution & Adaptation
+- Milestone 3 — Impediment & Dependency Management
+- Milestone 4 — Agile Metrics & Delivery Transparency
+- Milestone 5 — Sprint Review, Retrospective & Improvement
+- Milestone 6 — Coaching, Stakeholder Management & Conflict
+- Milestone 7 — End-to-End Agile Delivery Portfolio
+
+## Final portfolio message
+
+This repository is a practical simulation designed to demonstrate how I apply Scrum Master principles across product, delivery, stakeholder and continuous-improvement situations. All scenario data is synthetic and contains no confidential employer or client information.

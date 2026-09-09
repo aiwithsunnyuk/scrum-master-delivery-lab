@@ -1,0 +1,14 @@
+capability,evidence_file,scenario_or_artifact,interview_question
+Product Goal Alignment,docs/product-charter.md,Customer self-service problem,How do you connect delivery to product value?
+Backlog Refinement,docs/backlog-refinement.md,US-005 refinement,How do you facilitate refinement?
+Sprint Execution,docs/sprint-02-plan.md,Sprint 02,How do you facilitate Sprint Planning?
+Daily Scrum,docs/daily-scrum-log.md,Day 4 impediment,How do you handle a blocked Sprint?
+Impediment Management,data/impediment-register.csv,IMP-004,How do you track impediments?
+Metrics,docs/metrics-review.md,Sprints 01-05,Which Agile metrics do you use?
+Sprint Review,docs/sprint-04-review.md,Sprint 04,How do you handle stakeholder feedback?
+Retrospective,docs/sprint-04-retrospective.md,Sprint 04,How do you drive improvement?
+Coaching,docs/coaching-plan.md,Behavioural improvement,How do you coach a team?
+Conflict,docs/conflict-facilitation.md,PO vs Engineering,How do you handle conflict?
+Stakeholder Management,docs/stakeholder-pressure-scenario.md,Scope pressure,How do you protect a Sprint?
+Cross-Team Coordination,docs/scrum-of-scrums.md,API dependency,How do you manage dependencies?
+Continuous Improvement,docs/improvement-backlog.md,Experiments,How do you know an improvement worked?
