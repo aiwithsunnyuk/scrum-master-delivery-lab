@@ -1,0 +1,6 @@
+id,title,points,initial_status,final_status,goal_relevance
+US-005,Filter results by category,5,Planned,Done,High
+US-008,Show empty search state,2,Planned,Done,High
+US-009,Record failed searches,3,Planned,Not Done,Medium
+US-011,Preserve search term during filtering,3,Planned,Done,High
+US-012,Improve result relevance indicator,5,Planned,Done,High
