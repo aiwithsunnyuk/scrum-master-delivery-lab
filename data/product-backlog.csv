@@ -1,8 +1,11 @@
-id,title,type,priority,story_points,status
-US-001,Search knowledge articles,User Story,1,5,Done
-US-002,View article results,User Story,2,3,Done
-US-003,Open article details,User Story,3,3,Done
-US-004,Track search analytics,User Story,4,2,Not Done
-US-005,Filter results by category,User Story,5,5,Ready
-US-006,Create service request,User Story,6,8,Refinement
-US-007,Track request status,User Story,7,5,Refinement
+id,title,type,priority,story_points,status,value_statement,dependency
+US-001,Search knowledge articles,User Story,1,5,Done,Customer can find relevant knowledge using keywords,Search API
+US-002,View article results,User Story,2,3,Done,Customer can understand available search results,Knowledge service
+US-003,Open article details,User Story,3,3,Done,Customer can read the selected knowledge article,Content service
+US-004,Track search analytics,User Story,4,2,Refinement,Product team can understand search usage,Analytics event definitions
+US-005,Filter results by category,User Story,5,5,Ready,Customer can narrow results to a useful category,Article taxonomy
+US-006,Create service request,User Story,6,8,Refinement,Customer can raise a support request without calling support,Request API
+US-007,Track request status,User Story,7,5,Refinement,Customer can see progress after raising a request,Request API
+US-008,Show empty search state,User Story,8,2,Ready,Customer understands when no articles match,None
+US-009,Record failed searches,User Story,9,3,Refinement,Product team can identify knowledge gaps,Analytics event definitions
+US-010,Display popular articles,User Story,10,5,Backlog,Customer can discover useful content quickly,Usage analytics

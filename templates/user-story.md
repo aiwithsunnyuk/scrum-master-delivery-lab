@@ -1,12 +1,15 @@
 # User Story
 
-**ID:** US-XXX
+## ID
+US-XXX
 
-**As a** [user/persona]
+## Story
+
+**As a** [persona]
 
 **I want** [capability]
 
-**So that** [value/outcome]
+**So that** [customer/business value]
 
 ## Acceptance Criteria
 
@@ -14,9 +17,28 @@
 - When ...
 - Then ...
 
-## Notes
+## Value
 
-- Dependencies:
-- UX:
-- Technical considerations:
-- Analytics:
+What measurable or observable outcome does this enable?
+
+## Dependencies
+
+-
+
+## Open Questions
+
+-
+
+## Notes for refinement
+
+-
+
+## Definition of Ready check
+
+- [ ] Value is clear
+- [ ] Acceptance criteria are testable
+- [ ] Dependencies identified
+- [ ] External decisions identified
+- [ ] UX/design input available if needed
+- [ ] Technical uncertainty discussed
+- [ ] Story is appropriately sized
