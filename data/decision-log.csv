@@ -1,0 +1,4 @@
+decision,status,decision_owner,follow_up
+Confirm fallback sequencing if integration misses target,Open,Release Owner,Next dependency review
+Protect Product Owner prioritisation capacity,Agreed,Delivery Leadership,Inspect stakeholder request flow
+Stop using velocity as an individual performance target,Agreed,Delivery Leadership,Review outcome and flow signals

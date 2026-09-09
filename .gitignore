@@ -3,3 +3,19 @@
 __pycache__/
 *.pyc
 .env
+
+# Local development environments
+.venv/
+.agents/
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local development environments
+.venv/
+.agents/
+.claude/
+__pycache__/
+*.pyc
+.DS_Store

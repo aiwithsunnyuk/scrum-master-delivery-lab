@@ -1,0 +1,6 @@
+item,status,evidence,owner
+Scope and acceptance,Ready,Product backlog refined and acceptance expectations visible,Product Owner
+Quality,Ready,Escaped defects reduced in latest sprint evidence,Engineering Lead
+Critical integration dependency,Watch,External integration owner has a committed recovery path,Dependency Owner
+Operational readiness,Watch,Support checklist has one outstanding item,Operations Lead
+Release decision,Watch,Leadership decision required if dependency misses target,Release Owner

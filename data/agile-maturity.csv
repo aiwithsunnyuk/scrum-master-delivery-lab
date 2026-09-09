@@ -1,0 +1,7 @@
+dimension,current_level,target_level,priority,evidence
+Product ownership,2,4,High,M6 stakeholder pressure and coaching evidence
+Team autonomy,2,4,High,M6 bypassing Product Owner scenario
+Flow,3,4,Medium,M4 cycle time and M5 WIP experiment
+Quality,3,4,Medium,M4 defect signals and M5 quality experiment
+Leadership behaviour,2,4,High,M9 executive communication and transformation scenario
+Cross-team coordination,3,4,High,M3 dependency management and M9 dependency watch

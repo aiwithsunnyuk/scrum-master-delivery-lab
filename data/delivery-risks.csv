@@ -1,0 +1,5 @@
+risk,severity,status,owner,mitigation
+Critical integration dependency,High,Open,Dependency Owner,Confirm recovery path and fallback sequencing
+PO capacity constraint,Medium,Open,Product Owner,Protect prioritisation time and route stakeholder requests through PO
+Velocity pressure creating gaming behaviour,Medium,Open,Delivery Lead,Reframe conversation around outcomes and flow
+Escaped defect recurrence,Low,Closed,Engineering Lead,Acceptance edge-case checklist experiment

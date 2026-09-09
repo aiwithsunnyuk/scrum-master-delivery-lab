@@ -1,0 +1,4 @@
+dependency,status,owner,due_date,impact
+External integration contract,Open,Dependency Owner,Release-05,Threatens integration window
+Operations support checklist,Open,Operations Lead,Release-05,Could delay operational handover
+Design clarification,Closed,Product Owner,Sprint-05,No current release impact
