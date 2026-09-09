@@ -1,0 +1,5 @@
+source,sprint,feedback,theme,product_backlog_impact
+Customer Support,Sprint 04,Customers need clearer visibility after submitting requests,Request status,Increase priority of request-status journey
+Product Owner,Sprint 04,Complete end-to-end status before lower-value enhancements,Product value,Reorder backlog
+Operations,Sprint 04,Environment instability caused avoidable integration delay,Delivery system,Validate environment dependency earlier
+UX,Sprint 04,Validation messages are clearer but edge cases need consistency,Quality,Strengthen acceptance criteria

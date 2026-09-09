@@ -1,0 +1,4 @@
+id,experiment,hypothesis,baseline,target,measure,owner,sprint,status
+IMPROVE-001,Pre-Sprint dependency validation,Early validation will reduce dependency interruptions,2 interruptions,0-1 interruptions,Dependency-caused interruptions,Scrum Master + Engineering Lead,Sprint 05,Planned
+IMPROVE-002,Acceptance edge-case checklist,Explicit edge cases will reduce escaped defects,3 escaped defects,<=1 escaped defect,Escaped defects per Sprint,Product Owner + QA,Sprint 05,Planned
+IMPROVE-003,WIP inspection,Lower WIP will stabilize flow,4.1 days median cycle,<=3.5 days,Median cycle time,Developers,Sprint 05,Backlog
