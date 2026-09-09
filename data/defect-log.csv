@@ -1,0 +1,9 @@
+defect_id,sprint,severity,found_stage,escaped_after_acceptance,root_cause_category,status
+DEF-001,Sprint 01,Medium,Regression,Yes,Requirement ambiguity,Closed
+DEF-002,Sprint 01,Low,Regression,Yes,Test coverage,Closed
+DEF-003,Sprint 02,Medium,System Test,Yes,Integration dependency,Closed
+DEF-004,Sprint 03,Low,System Test,Yes,Test data,Closed
+DEF-005,Sprint 04,High,Production,Yes,Environment configuration,Closed
+DEF-006,Sprint 04,Medium,Regression,Yes,Acceptance criteria gap,Closed
+DEF-007,Sprint 04,Low,System Test,No,Test data,Closed
+DEF-008,Sprint 05,Low,Regression,Yes,UX edge case,Closed
