@@ -1,0 +1,6 @@
+id,audience,observation,coaching_action,success_signal,review_sprint,status
+COACH-001,Developers,Direct stakeholder priority interruptions,Coach team to redirect priority changes through PO,Fewer direct priority interruptions,Sprint 07,Planned
+COACH-002,Product Owner,Late decisions create waiting,Establish decision-clarification window,Decision aging reduced,Sprint 07,Planned
+COACH-003,Engineering Lead,Technical risks surface late,Add risk check during refinement,Risks visible before Sprint Planning,Sprint 07,Planned
+COACH-004,Stakeholders,Requests bypass Product Owner,Explain transparent backlog and decision path,New requests captured in backlog,Sprint 07,Planned
+COACH-005,Whole Team,Escalation used before direct collaboration,Facilitate evidence-based conflict resolution,Fewer avoidable escalations,Sprint 07,Planned
